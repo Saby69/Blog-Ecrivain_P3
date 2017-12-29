@@ -8,21 +8,11 @@
             <span class="text-primary">Forteroche</span>
           </h1>
           <div class="subheading mb-5">Acteur et écrivain
-            <a href="mailto:name@email.com">name@email.com</a>
+            <a href="mailto:name@email.com">contact@email.com</a>
           </div>
-          <p class="mb-5">Bienvenu sur mon nouveau site dédié à mon nouveau roman :</p>
+          <p class="mb-5">Bienvenue sur mon nouveau site dédié à mon nouveau roman :</p>
           <h1>Billet simple pour l'Alaska</h1>
-          <ul class="list-inline list-social-icons mb-0">
-            <li class="list-inline-item">
-              <a href="#">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-                </span>
-              </a>
-            </li>
-            
-          </ul>
+          
         </div>
       </section>
 </div>

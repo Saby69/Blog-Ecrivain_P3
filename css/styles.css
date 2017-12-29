@@ -1,0 +1,10 @@
+.bg-primary {
+    background-color: #395BBC!important;
+}
+.text-primary {
+  color:  #395BBC !important; }
+
+a {
+  color:  #395BBC; }
+  a:hover, a:focus, a:active {
+    color: #824027; }
