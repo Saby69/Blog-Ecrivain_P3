@@ -1,11 +1,11 @@
 .bg-primary {
-    background-color: #395BBC!important;
+    background-color: #1a192e!important;
 }
 .text-primary {
-  color:  #395BBC !important; }
+  color:  #1a192e !important; }
 
 a {
-  color:  #395BBC; }
+  color:  #1a192e; }
   a:hover, a:focus, a:active {
     color: #824027; }
 
@@ -14,7 +14,3 @@ section {
 	padding-right: 
 }
 
-#lienblanc a {
-	color: white !important; 
-
-}
